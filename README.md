@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 💼 Technical Associate at Wipro -> 📊 Transitioning into Data Analytics
 
-## 🔧 Tools
+## 🔧 Tools & Technologies
 Python • SQL • NumPy • Pandas • Matplotlib • Seaborn  
 Excel (Currently Learning) • Power BI (Next) • Tableau (Next)
 
@@ -24,9 +24,6 @@ Excel (Currently Learning) • Power BI (Next) • Tableau (Next)
 • Building Data Analytics projects  
 • Practicing with real-world datasets  
 • Strengthening data visualization skills
-
-🛠 Tools & Technologies
-Python | SQL | Excel | Pandas | NumPy | Matplotlib | Seaborn
 
 ## 📫 Connect
 LinkedIn: https://www.linkedin.com/in/abhinibeshmal1508/
